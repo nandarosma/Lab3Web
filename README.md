@@ -12,3 +12,5 @@ Membuat database dan menambahkan database
 Screenshot (323).png
 Screenshot (323).png
 Membuat file database dan membuat index.php
+Screenshot (325).png
+Screenshot (326).png
